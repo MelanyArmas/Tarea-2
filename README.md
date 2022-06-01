@@ -64,3 +64,53 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2016.jpg)
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2016.1.jpg)
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2018.jpg)
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2020.jpg)
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2022.jpg)
+
+24. Calcule el voltaje para cada valor de I y R:
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2024.jpg)
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2024.1.jpg)
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2026.jpg)
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2028.jpg)
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2028.1.jpg)
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2030.jpg)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2032.jpg)
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2034.jpg)
+
+SECCIÓN 2
+
+
+VIDEO
+
+CONCLUSIONES
+Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 3 y 4, se pudo determinar que es necesario conocer los conceptos de Ley de Ohm así como también energía  potencia para llegar a un resultado correcto.  
+
+BIBLIOGRAFÍA
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
