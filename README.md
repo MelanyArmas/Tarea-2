@@ -103,10 +103,79 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2034.jpg)
 
-SECCIÖN 2
+SECCIÓN 4-1
 
+2. Demuestre que hay 3.6〖X10〗^6 joules en un kilowatt-hora
 
-VIDEO
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%202%20S4.jpg)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%204%20S2.jpg)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%206%20S2.jpg)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%208%20S2.jpg)
+
+10. Convierta las siguientes cantidades en watts:
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2010%20S2.jpg)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2012%20S2.jpg)
+
+14. Convierta 5〖X10〗^6 watts-minutos en kWh.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2014%20S2.jpg)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2016%20S2.jpg)
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2018%20S2.jpg)
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2020%20S2.jpg)
+
+22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2022%20S2.jpg)
+
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2024%20S2.jpg)
+
+26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2026%20S2.jpg)
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2028%20S2.jpg)
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2030%20S2.jpg)
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2032%20S2.jpg)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2034%20S2.jpg)
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2036%20S2.jpg)
 
 CONCLUSIONES
 Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 3 y 4, se pudo determinar que es necesario conocer los conceptos de Ley de Ohm así como también energía  potencia para llegar a un resultado correcto.  
