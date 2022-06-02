@@ -44,7 +44,7 @@ SECCIÓN 3-1
 
 La primera banda es Gris = 8, la segunda es Rojo = 2, la tercera es Rojo = 2ceros, y la cuarta es Oro = tolerancia del 5%
 
-![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%208.jpg)
+![](
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
