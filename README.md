@@ -102,7 +102,8 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2034.jpg)
-SECCIÓN 2
+
+SECCIÖN 2
 
 
 VIDEO
