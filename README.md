@@ -133,7 +133,7 @@ SECCIÓN 4-1
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2014%20S2.jpg)
 
-16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2016%20S2.jpg)
 
