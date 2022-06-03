@@ -177,6 +177,10 @@ SECCIÓN 4-1
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2036%20S2.jpg)
 
+VIDEO
+
+https://www.youtube.com/watch?v=KBQ8Qzg38Qw
+
 CONCLUSIONES
 Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 3 y 4, se pudo determinar que es necesario conocer los conceptos de Ley de Ohm así como también energía  potencia para llegar a un resultado correcto.  
 
