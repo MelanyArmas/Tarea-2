@@ -103,6 +103,10 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 ![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2034.jpg)
 
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![](https://github.com/MelanyArmas/Tarea-2/blob/main/EJ%2036.jpg)
+
 SECCIÓN 4-1
 
 2. Demuestre que hay 3.6〖X10〗^6 joules en un kilowatt-hora
